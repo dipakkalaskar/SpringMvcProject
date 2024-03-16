@@ -1,0 +1,24 @@
+.control{
+	width:400px;
+	height:40px;
+}
+input[type="submit"]{
+	background-color:pink;
+}
+.navbar{
+	width:100%;
+	background-color:black;
+	padding:40px;
+	list-style-type:none;
+	
+}
+.navbar li{
+	display:inline;
+	padding:20px;
+	
+}
+.navbar li a{
+	text-decoration:none;
+	color:white;
+}
+
